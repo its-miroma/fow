@@ -13,5 +13,5 @@ Read more [tips regarding server setup](../../tips/servers.md).
 {% endhint %}
 
 {% hint style="info" %}
-Are you unable to play Minecraft 1.17 or higher due to hardware limitations? Follow this [tutorial](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) then try again.
+Are you unable to play Minecraft 1.17 or higher due to hardware limitations? Follow this [tutorial to work around the compatibility issue](https://gist.github.com/Kichura/9fa44010d8ed9e5733d258292e327001) then try again.
 {% endhint %}

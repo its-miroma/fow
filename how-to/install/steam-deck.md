@@ -1,8 +1,8 @@
-# How To Install: [Steam Deck](<https://steamdeck.com/>)
+# How to Install: [Steam Deck](<https://steamdeck.com/>)
 
 You'll install FO on your Steam Deck via [Prism Launcher](./prism-launcher.md).
 
-{% hint type="warning" %}
+{% hint style="warning" %}
 If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](<https://old.reddit.com/r/steamdeck>). FO moderators may not be able to help you
 {% endhint %}
 
