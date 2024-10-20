@@ -1,4 +1,4 @@
-# How To Install: [Modrinth App](<https://modrinth.com/app>)
+# How to Install: [Modrinth App](<https://modrinth.com/app>)
 
 {% hint style="warning" %}
 Modrinth App version 0.6.2 or higher is required

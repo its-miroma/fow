@@ -1,4 +1,4 @@
-# How To Install: [CurseForge App](<https://curseforge.com/download/app#download-options>)
+# How to Install: [CurseForge App](<https://curseforge.com/download/app#download-options>)
 
 ## Through the CurseForge App
 

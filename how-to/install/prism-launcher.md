@@ -1,4 +1,4 @@
-# How To Install: [Prism Launcher](<https://prismlauncher.org/>)
+# How to Install: [Prism Launcher](<https://prismlauncher.org/>)
 
 1. Download and install [Java](<https://prismlauncher.org/wiki/getting-started/installing-java>)
 2. Open the **Prism Launcher**
