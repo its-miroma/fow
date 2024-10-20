@@ -2,5 +2,5 @@
 hidden: true
 ---
 
-# disable-mods
+# tips
 
