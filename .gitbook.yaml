@@ -1,0 +1,24 @@
+root: ./
+
+redirects:
+  # TODO: add link to last commit before proposal
+  accessibility:         about/accessibility.md
+  adding-more-mods:      how-to/add-mods/README.md
+  backup-and-uninstall:  how-to/backup/README.md
+  changed-options:       info/options/README.md
+  chat-reporting-faq:    info/mods/player-reporting.md
+  disabling-mods:        how-to/disable-mods/README.md
+  disclaimers:           about/terms.md
+  free-cape:             info/mods/capes.md
+  getting-shaders:       info/mods/shaders.md
+  give-up-optifine:      about/optifine.md
+  improving-performance: info/options/other.md
+  install-instructions:  how-to/install/README.md
+  language-support:      about/contribute/translate.md
+  multimc-auto-update:   how-to/install/multimc.md
+  principles:            about/README.md
+  resource-pack-issues:  info/resource-packs/issues.md
+  server-setup:          about/servers.md
+  update-instructions:   how-to/update/README.md
+  vanilla-launcher-faq:  how-to/install/vanilla.md
+  version-support:       about/versioning.md
