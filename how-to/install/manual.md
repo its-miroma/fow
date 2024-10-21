@@ -64,26 +64,27 @@ If you have mistakenly forgotten to copy the other folders, do the following:
    - Minecraft 1.19-1.19.3: [Java 17](<https://download.fo/java17>)
    - Minecraft 1.17-1.18.2: [Java 17](<https://download.fo/java17>)
    - Minecraft 1.16.5: [Java 8](<https://download.fo/java8>)
-2. Install the appropriate version of the [Fabric Loader](<https://fabricmc.net/use>)
+2. Download and run the [Fabric Installer](<https://fabricmc.net/use>)
+3. Install the appropriate version of the **Fabric Loader**
    - Minecraft 1.19-1.19.3: `version 0.14.24`
    - Minecraft 1.17-1.18.2: `version 0.14.12`
    - Minecraft 1.16.5: `version 0.13.3`
-3. Open the **Minecraft Launcher**
-4. Click on **Installations**. You should find a new Fabric installation
-5. Click on the folder icon 📂 next to the Fabric installation
-6. In your **browser**, open the [**Files section**](<https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show>) on CurseForge
-7. Click on the appropriate version of FO
-8. Click on **Additional files**. You should find a **MultiMC version**
-9. Click on `⋮` → `Download file`
-10. Extract the `zip` file. If you see less than 10 mods in it, you have downloaded the wrong version
-11. Go to `Fabulously Optimized x.x.x` > `minecraft`. You should find a `zip` file in there
-12. Extract the `zip` file
-13. Copy all folders from the `zip`'s `minecraft` folder to the `.minecraft` folder that you opened in _step 5_
-14. If you're asked to replace files, replace them
-15. If you want the [recommended FO settings](/info/options.md), delete `options.txt`. This will reset your vanilla options (resource packs, language, keybinds...) but you can reapply them later
-16. Go back to the **Minecraft Launcher**
-17. Launch the Fabric installation from _step 4_. Minecraft should start up
-16. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
+4. Open the **Minecraft Launcher**
+5. Click on **Installations**. You should find a new Fabric installation
+6. Click on the folder icon 📂 next to the Fabric installation
+7. In your **browser**, open the [**Files section**](<https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files?showAlphaFiles=show>) on CurseForge
+8. Click on the appropriate version of FO
+9. Click on **Additional files**. You should find a **MultiMC version**
+10. Click on `⋮`, then on `Download file`
+11. Extract the `zip` file. If you see less than 10 mods in it, you have downloaded the wrong version
+12. Go to `Fabulously Optimized x.x.x` > `minecraft`. You should find a `zip` file in there
+13. Extract the `zip` file
+14. Copy all folders from the `zip`'s `minecraft` folder to the `.minecraft` folder that you opened in _step 5_
+15. If you're asked to replace files, replace them
+16. If you want the [recommended FO settings](/info/options.md), delete `options.txt`. This will reset your vanilla options (resource packs, language, keybinds...) but you can reapply them later
+17. Go back to the **Minecraft Launcher**
+18. Launch the Fabric installation from _step 4_. Minecraft should start up
+19. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
 ## What does the `zip` file contain?
 
