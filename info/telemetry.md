@@ -10,6 +10,6 @@ FO disables all forms of telemetry by default, giving the user the choice to opt
 * Snooper already collects too much data, such as the user's Xbox ID, even in minimal configuration
 * FO may interfere with Mojang's data, due to the game being modded: performance improvements from the mods are not reflected in the vanilla game
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 FO cannot and does not disable telemetry collected by the launcher or by the OS.
 {% endhint %}

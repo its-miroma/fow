@@ -1,10 +1,12 @@
-# Fixed bugs
+# Bug Fixes
 
 FO includes some mods that fix vanilla bugs.
 
-If there's a bug that you think FO should fix, you can [request a bug fix](#request-a-bug-fix)
+{% hint style="info" %}
+If there's a bug that you think FO should fix, you can [request a bug fix](bugs.md#request-a-bug-fix)
+{% endhint %}
 
-| Mojang bug                                            | Description                                                                                         | Fixed by                                                                          |
+| Bug                                                   | Description                                                                                         | Fixed by                                                                          |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [MC-577](https://bugs.mojang.com/browse/MC-577)       | Mouse buttons block all inventory controls that are not default                                     | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
 | [MC-22882](https://bugs.mojang.com/browse/MC-22882)   | Ctrl + Q won't work on Mac                                                                          | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
@@ -21,17 +23,17 @@ If there's a bug that you think FO should fix, you can [request a bug fix](#requ
 | [MC-165595](https://bugs.mojang.com/browse/MC-165595) | Guardian beam does not render when over a certain "Time" in level.dat                               | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)         |
 | [MC-199467](https://bugs.mojang.com/browse/MC-199467) | Certain entity animations stop after they've existed in world for too long                          | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
 | [MC-226729](https://bugs.mojang.com/browse/MC-226729) | Memory leakage problem in native operations                                                         | [MemoryLeakFix](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix)       |
-| [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                                          | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                     |  
+| [MC-227302](https://bugs.mojang.com/browse/MC-227302) | Smooth lighting doesn't work properly on the water surface                                          | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                     |
 | [MC-228976](https://bugs.mojang.com/browse/MC-228976) | Entity collision is run on render thread                                                            | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                   |
 | [MC-237493](https://bugs.mojang.com/browse/MC-237493) | Telemetry cannot be disabled                                                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
 | [MC-237493](https://bugs.mojang.com/browse/MC-263865) | Fullscreen state isn't saved                                                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                     |
 
 ## Request a Bug Fix
 
-{% hint style="info" %}
+{% hint style="warning" %}
 FO will only fix a bug if it affects a large majority of its users (at least 70% of them). Read more in [FO's principles](../about/principles.md).
 {% endhint %}
 
 1. Find the bug on [Mojang's bug tracker](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
 2. Request it or find its status on [Debugify's bug tracker](https://github.com/W-OVERFLOW/Debugify/issues)
-3. If you're sure that the bug fix is in Debugify, [request an option change](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?labels=option&template=setting-request.yml)
+3. If you're sure that the bug fix is in Debugify, [request an option change](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?labels=option\&template=setting-request.yml)

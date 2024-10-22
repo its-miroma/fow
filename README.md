@@ -1,3 +1,3 @@
-# Welcome to Fabulously Optimized
+# FO Wiki
 
-This is its wiki.
+Welcome to the Fabulously Optimized Wiki!

@@ -2,6 +2,8 @@
 
 Fast Better Grass imitates OptiFine's "Better Grass" fast mode.
 
-You can find [FBG on GitHub](), [FBG on Modrinth]() and [FBG on CurseForge]().
+<table data-view="cards"><thead><tr><th></th></tr></thead><tbody><tr><td>Fast Better Grass on Modrinth</td></tr><tr><td>Fast Better Grass on CurseForge</td></tr><tr><td>Fast Better Grass on GitHub</td></tr></tbody></table>
 
-Read more about [OptiFine features in FO](../../about/optifine.md).
+{% hint style="info" %}
+Read more about [OptiFine features in FO](../../about/optifine.md)
+{% endhint %}
