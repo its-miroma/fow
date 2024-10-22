@@ -1,4 +1,4 @@
-# How to Update: [CurseForge App](<https://curseforge.com/download/app#download-options>)
+# How to Update: [CurseForge App](https://curseforge.com/download/app#download-options)
 
 1. Open the **CurseForge App**
 2. Select **Minecraft** from the grid or from the sidebar

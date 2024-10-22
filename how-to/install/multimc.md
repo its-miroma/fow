@@ -1,4 +1,4 @@
-# How to Install: [MultiMC](<https://multimc.org/>)
+# How to Install: [MultiMC](https://multimc.org/)
 
 {% hint style="info" %}
 MultiMC does not support automatic updates by default. However, FO has developed a custom MultiMC pack that uses [packwiz](https://github.com/packwiz/packwiz) to perform updates automatically.

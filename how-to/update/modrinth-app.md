@@ -1,4 +1,4 @@
-# How to Update: [Modrinth App](<https://modrinth.com/app>)
+# How to Update: [Modrinth App](https://modrinth.com/app)
 
 1. Open the **Modrinth App**
 2. Select the existing FO instance

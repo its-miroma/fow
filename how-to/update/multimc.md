@@ -1,4 +1,4 @@
-# How to Update: [MultiMC](<https://multimc.org/>)
+# How to Update: [MultiMC](https://multimc.org/)
 
 {% hint style="info" %}
 If you had installed [FO on MultiMC with automatic updates](../install/multimc.md#automatic-updates), you just need to run the existing versions. If you get a popup saying that **This modpack uses new versions of the following...**, then click on the **Update** button.
@@ -15,6 +15,6 @@ However, if you have installed [FO on MultiMC without automatic updates](../inst
    - `shaders`: Your shaders, if any
    - `screenshots`: Your screenshots, if any
    - `server.dat`: Your multiplayer servers, if any
-   - `options.txt`: Your custom options and keybinds, if any. If you want the [recommended FO settings](/info/options.md), do not copy it
+   - `options.txt`: Your custom options and keybinds, if any. If you want the [recommended FO settings](../../info/options.md), do not copy it
 5. Once you've moved them, launch the new instance. Minecraft should open up
 6. If you can see the newly installed version in the bottom-right corner, you can delete the previous version

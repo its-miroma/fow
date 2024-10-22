@@ -1,4 +1,4 @@
-# How to Install: [Prism Launcher](<https://prismlauncher.org/>)
+# How to Install: [Prism Launcher](https://prismlauncher.org/)
 
 1. Open the **Prism Launcher**
 2. Click on the **Modrinth** tab on the left

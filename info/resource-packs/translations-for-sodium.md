@@ -1,3 +1,5 @@
 # Translations for Sodium
 
-TfS is a resource pack.
+Translations for Sodium is an unofficial resource pack to add translations for Sodium.
+
+You can find [FBG on GitHub](), [FBG on Modrinth]() and [FBG on CurseForge]().

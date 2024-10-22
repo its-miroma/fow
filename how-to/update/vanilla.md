@@ -1,4 +1,4 @@
-# How to Update: [Minecraft Launcher (vanilla)](<https://www.minecraft.net/en-us/download>)
+# How to Update: [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download)
 
 {% hint style="warning" %}
 These instructions rely on the [Fabulously Optimized Installer](https://github.com/Fabulously-Optimized/installer).

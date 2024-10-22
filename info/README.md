@@ -1,6 +1,1 @@
----
-hidden: true
----
-
-# info
-
+# What does FO contain?

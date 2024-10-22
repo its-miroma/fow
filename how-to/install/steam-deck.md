@@ -1,9 +1,9 @@
-# How to Install: [Steam Deck](<https://steamdeck.com/>)
+# How to Install: [Steam Deck](https://steamdeck.com/)
 
-You'll install FO on your Steam Deck via [Prism Launcher](./prism-launcher.md).
+You'll install FO on your Steam Deck via [Prism Launcher](prism-launcher.md).
 
 {% hint style="warning" %}
-If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](<https://old.reddit.com/r/steamdeck>). FO moderators may not be able to help you
+If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](https://old.reddit.com/r/steamdeck). FO moderators may not be able to help you
 {% endhint %}
 
 1. Hold down the Power button on your Steam Deck
@@ -21,9 +21,9 @@ If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](<https://o
 13. Close the Steam app
 14. Launch **Return to Gaming Mode**
 15. Launch **Prism Launcher** from your game library
-16. Follow the [instructions for the Prism Launcher](./prism-launcher.md). Once you've opened Minecraft, come back here
+16. Follow the [instructions for the Prism Launcher](prism-launcher.md). Once you've opened Minecraft, come back here
 17. Tap on **Options...**, then on **Controls...**, then on **Controller Settings...**
 18. Select your controller
 19. Tap on **Done** three times
 20. You can launch the game from your game library from now on
-21. If you want a better icon in your game library, follow the [instructions for setting up artwork](<https://prismlauncher.org/download/steam-deck/#setting-up-artwork>)
+21. If you want a better icon in your game library, follow the [instructions for setting up artwork](https://prismlauncher.org/download/steam-deck/#setting-up-artwork)

@@ -17,7 +17,7 @@ The modpack is carefully crafted together to ensure full compatibility between i
 {% endhint %}
 
 {% hint style="info" %}
-If you want the recommended FO configuration, you may [get its recommended settings](../../info/options.md).
+If you want the recommended FO configuration, you may [reset your custom settings](../../info/options.md#reset-settings).
 {% endhint %}
 
 {% hint style="info" %}

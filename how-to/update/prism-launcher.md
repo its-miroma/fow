@@ -1,4 +1,4 @@
-# How to Update: [Prism Launcher](<https://prismlauncher.org/>)
+# How to Update: [Prism Launcher](https://prismlauncher.org/)
 
 1. Open the **Prism Launcher**
 2. Select the existing FO instance
