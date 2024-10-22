@@ -28,10 +28,10 @@
 
 The `zip` file contains the following:
 
-- `config/`: Configuration files that adjust the mods for the best experience
-- `mods/`: The mods that are included in FO
-- `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs/README.md)
-- `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
+* `config/`: Configuration files that adjust the mods for the best experience
+* `mods/`: The mods that are included in FO
+* `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs/README.md)
+* `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
 
 ## Why do I need to copy everything over?
 
@@ -39,13 +39,13 @@ FO consists of mods, configuration and resource packs, and all three are necessa
 
 Copying the `mods` folder only may result in the following issues:
 
-- In some versions the game will not launch at all
-- Some of your resource packs will be broken
-- Some features, such as zoom, will not work as shown
-- New unexpected keybinds will appear
-- Confusing mod buttons or popups will appear
-- Confusing descriptions in the mod list
-- There won't be any FO version number in the title screen
+* In some versions the game will not launch at all
+* Some of your resource packs will be broken
+* Some features, such as zoom, will not work as shown
+* New unexpected keybinds will appear
+* Confusing mod buttons or popups will appear
+* Confusing descriptions in the mod list
+* There won't be any FO version number in the title screen
 
 If you have mistakenly forgotten to copy the other folders, do the following:
 
@@ -61,14 +61,14 @@ If you have mistakenly forgotten to copy the other folders, do the following:
 {% tab title="Minecraft 1.16.1 - 1.19.3" %}
 
 1. Install the appropriate version of Java:
-   - Minecraft 1.19-1.19.3: [Java 17](https://download.fo/java17)
-   - Minecraft 1.17-1.18.2: [Java 17](https://download.fo/java17)
-   - Minecraft 1.16.5: [Java 8](https://download.fo/java8)
+   * Minecraft 1.19-1.19.3: [Java 17](https://download.fo/java17)
+   * Minecraft 1.17-1.18.2: [Java 17](https://download.fo/java17)
+   * Minecraft 1.16.5: [Java 8](https://download.fo/java8)
 2. Download and run the [Fabric Installer](https://fabricmc.net/use)
 3. Install the appropriate version of the **Fabric Loader**
-   - Minecraft 1.19-1.19.3: `version 0.14.24`
-   - Minecraft 1.17-1.18.2: `version 0.14.12`
-   - Minecraft 1.16.5: `version 0.13.3`
+   * Minecraft 1.19-1.19.3: `version 0.14.24`
+   * Minecraft 1.17-1.18.2: `version 0.14.12`
+   * Minecraft 1.16.5: `version 0.13.3`
 4. Open the **Minecraft Launcher**
 5. Click on **Installations**. You should find a new Fabric installation
 6. Click on the folder icon 📂 next to the Fabric installation
@@ -90,15 +90,15 @@ If you have mistakenly forgotten to copy the other folders, do the following:
 
 The MultiMC `zip` file contains the following:
 
-- `Fabulously Optimized x.y.z/`: A folder containing the MultiMC instance
-  - `minecraft/`: The main folder of the modpack
-    - `config/`: Configuration files that adjust the mods for the best experience
-    - `mods/`: The mods that are included in FO
-    - `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs/README.md)
-    - `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
-  - `instance.cfg`: A manifest file describing name, icon, type and notes for the instance
-  - `mmc-pack.json`: A manifest file describing the version of Minecraft, Fabric and of other dependencies
-  - `pack.png`: An icon for the instance
+* `Fabulously Optimized x.y.z/`: A folder containing the MultiMC instance
+  * `minecraft/`: The main folder of the modpack
+    * `config/`: Configuration files that adjust the mods for the best experience
+    * `mods/`: The mods that are included in FO
+    * `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs/README.md)
+    * `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
+  * `instance.cfg`: A manifest file describing name, icon, type and notes for the instance
+  * `mmc-pack.json`: A manifest file describing the version of Minecraft, Fabric and of other dependencies
+  * `pack.png`: An icon for the instance
 
 ## Why do I need to copy everything over?
 
@@ -106,13 +106,13 @@ FO consists of mods, configuration and resource packs, and all three are necessa
 
 Copying the `mods` folder only may result in the following issues:
 
-- In some versions the game will not launch at all
-- Some of your resource packs will be broken
-- Some features, such as zoom, will not work as shown
-- New unexpected keybinds will appear
-- Confusing mod buttons or popups will appear
-- Confusing descriptions in the mod list
-- There won't be any FO version number in the title screen
+* In some versions the game will not launch at all
+* Some of your resource packs will be broken
+* Some features, such as zoom, will not work as shown
+* New unexpected keybinds will appear
+* Confusing mod buttons or popups will appear
+* Confusing descriptions in the mod list
+* There won't be any FO version number in the title screen
 
 If you have mistakenly forgotten to copy the other folders, do the following:
 

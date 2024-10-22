@@ -10,9 +10,9 @@ You may also [update FO manually](manual.md), if you had installed it manually.
 
 1. Download the [Fabulously Optimized Installer](https://download.fo/vanilla)
 2. Run the installer. You may get a prompt from your OS: allow the installer to run [Why did I get this prompt?]() <!-- TODO: answer -->
-   - On Windows: Run the `.exe` file, then click on **More info**, then click on **Run anyway**
-   - On macOS: Open the `.dmg` file, then right-click on the **Fabulously Optimized Installer**, then click on **Open**, then if prompted click on **Open** again
-   - On Linux: Open the `.appimage` file, then if prompted click on **Run once**
+   * On Windows: Run the `.exe` file, then click on **More info**, then click on **Run anyway**
+   * On macOS: Open the `.dmg` file, then right-click on the **Fabulously Optimized Installer**, then click on **Open**, then if prompted click on **Open** again
+   * On Linux: Open the `.appimage` file, then if prompted click on **Run once**
 3. Select your desired FO and Minecraft versions
 4. Click on **Install**
 5. Run the **Minecraft Launcher**. You should find a new installation

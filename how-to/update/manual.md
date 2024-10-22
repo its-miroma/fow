@@ -29,9 +29,9 @@
 
 1. Download and run the [Fabric Installer](https://fabricmc.net/use)
 2. Install the appropriate version of the **Fabric Loader**
-   - Minecraft 1.19-1.19.3: `version 0.14.24`
-   - Minecraft 1.17-1.18.2: `version 0.14.12`
-   - Minecraft 1.16.5: `version 0.13.3`
+   * Minecraft 1.19-1.19.3: `version 0.14.24`
+   * Minecraft 1.17-1.18.2: `version 0.14.12`
+   * Minecraft 1.16.5: `version 0.13.3`
 3. Open the **Minecraft Launcher**
 4. Click on **Installations**. You should find a new Fabric installation
 5. Click on the folder icon 📂 next to the Fabric installation

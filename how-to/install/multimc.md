@@ -21,13 +21,13 @@ You can either follow the [easier instructions](#easy-installation), or we recom
 
 1. Download and install [Java 21](https://download.fo/java21)
 2. Download FO's MultiMC pack for your preferred Minecraft version from GitHub Releases
-   - [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.0/Fabulously.Optimized.MC.1.21.1.auto-update.zip)
-   - [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip)
-   - [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
-   - [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
-   - [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip)
-   - [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
-   - If you do not want the latest version, you can find older ones in [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
+   * [1.21.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.2.0/Fabulously.Optimized.MC.1.21.1.auto-update.zip)
+   * [1.20.6](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.12.0-beta.11/Fabulously.Optimized.MC.1.20.6.auto-update.zip)
+   * [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip)
+   * [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip)
+   * [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip)
+   * [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip)
+   * If you do not want the latest version, you can find older ones in [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
 3. Drag the `zip` file and drop it inside of MultiMC's window. A window should pop up
 4. Click **OK** in that window. Something should happen <!-- TODO: What exactly? -->
 5. Double-click on that window. The download should start
