@@ -139,7 +139,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^1]
+### Libraries[^2]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -186,8 +186,8 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Entity Texture Features](https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric) | [traben\_0](https://www.curseforge.com/members/traben\_0)               | Adds OptiFine's random and emissive mobs support                                                                                              |
 | [FabricSkyboxes](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes)                          | [AMereBagatelle](https://www.curseforge.com/members/amerebagatelle)     | Adds custom skybox support                                                                                                                    |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot)                                    | [ramidzkh](https://www.curseforge.com/members/ramidzkh)                 | Lets you take a high-res screenshot with F9                                                                                                   |
-| Farsight[^2]                                                                                           | [someaddon](https://www.curseforge.com/members/someaddon)               | Keeps far loaded chunks visible in servers, increasing visible render distance                                                                |
-| [Hold That Chunk](#user-content-fn-4)[^2]                                                              | [The\_TermiGator](https://www.curseforge.com/members/the\_termigator)   | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr                                  |
+| Farsight[^3]                                                                                           | [someaddon](https://www.curseforge.com/members/someaddon)               | Keeps far loaded chunks visible in servers, increasing visible render distance                                                                |
+| [Hold That Chunk](#user-content-fn-4)[^4]                                                              | [The\_TermiGator](https://www.curseforge.com/members/the\_termigator)   | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr                                  |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)                               | [coderbot](https://www.curseforge.com/members/coderbot)                 | Adds OptiFine's shaders support, [(recommended shader list is here)](https://github.com/IrisShaders/Iris/blob/trunk/docs/supportedshaders.md) |
 | [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)                    | [LambdAurora](https://www.curseforge.com/members/LambdAurora)           | Adds OptiFine's "dynamic lights" - lights up areas by holding a light source, activating TNT or creeper                                       |
 | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix)                            | [MehVahdJukaar](https://www.curseforge.com/members/mehvahdjukaar)       | Fixes transparent gaps in items and blocks                                                                                                    |
@@ -215,7 +215,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^1]
+### Libraries[^5]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -289,7 +289,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)            | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                  | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^1]
+### Libraries[^6]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -311,7 +311,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | [FoundationGames](https://www.curseforge.com/members/FoundationGames) | Makes chests, signs, beds, etc. render faster                                   |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)                    | [tr9zw](https://www.curseforge.com/members/tr9zw)                     | Stops rendering entities that are behind walls                                  |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric)                  | [malte0811](https://www.curseforge.com/members/malte0811)             | Reduces RAM usage                                                               |
-| Hydrogen[^3]                                                                                    | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Reduces RAM usage                                                               |
+| Hydrogen[^7]                                                                                    | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Reduces RAM usage                                                               |
 | [Language Reload](https://www.curseforge.com/minecraft/mc-mods/language-reload)                 | [Jerozgen](https://www.curseforge.com/members/Jerozgen)               | Makes language switching instant, adds a searchbar                              |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)                                 | [tuxed](https://www.curseforge.com/members/tuxed)                     | Makes the game startup faster                                                   |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                                 | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Optimizes game physics and chunk loading                                        |
@@ -359,7 +359,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)            | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                            |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)                                  | [alexander9892](https://www.curseforge.com/members/alexander9892)   | Adds a scrollable zoom feature                                                                           |
 
-### Libraries[^1]
+### Libraries[^8]
 
 | Name                                                                                          | Author                                                            | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------- |
@@ -383,7 +383,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling)   | [tr9zw](https://www.curseforge.com/members/tr9zw)                       | Stops rendering entities that are behind walls                                  |
 | [FastChest](https://www.curseforge.com/minecraft/mc-mods/fastchest)            | [fake\_domi](https://www.curseforge.com/members/fake\_domi)             | Makes chests render faster                                                      |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | [malte0811](https://www.curseforge.com/members/malte0811)               | Reduces RAM usage                                                               |
-| Hydrogen[^3]                                                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)          | Reduces RAM usage                                                               |
+| Hydrogen[^9]                                                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)          | Reduces RAM usage                                                               |
 | [LazyDFU](https://www.curseforge.com/minecraft/mc-mods/lazydfu)                | [tuxed](https://www.curseforge.com/members/tuxed)                       | Makes the game startup faster                                                   |
 | [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium)                | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)          | Optimizes game physics and chunk loading                                        |
 | [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade)                | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer)     | Makes game startup and resource packs switch faster by removing fade animations |
@@ -424,7 +424,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)           | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                            |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)                                 | [alexander9892](https://www.curseforge.com/members/alexander9892)   | Adds a scrollable zoom feature                                                                           |
 
-### Libraries[^1]
+### Libraries[^10]
 
 | Name                                                                                          | Author                                                    | Description                                           |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- |
@@ -439,6 +439,20 @@ You may however [add your custom mods](../../how-to/add-mods/).
 
 [^1]: Mods that make other mods work. Hidden in-game, but should not be removed
 
-[^2]: The Modrinth pack includes [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) instead of [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric).
+[^2]: Mods that make other mods work. Hidden in-game, but should not be removed
 
-[^3]: Hydrogen comes from [Modrinth](https://modrinth.com/mod/hydrogen), [not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods).
+[^3]: The Modrinth pack includes [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) instead of [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)
+
+[^4]: The Modrinth pack includes [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) instead of [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric)
+
+[^5]: Mods that make other mods work. Hidden in-game, but should not be removed
+
+[^6]: Mods that make other mods work. Hidden in-game, but should not be removed
+
+[^7]: Hydrogen comes from [Modrinth](https://modrinth.com/mod/hydrogen), [not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+
+[^8]: Mods that make other mods work. Hidden in-game, but should not be removed
+
+[^9]: Hydrogen comes from [Modrinth](https://modrinth.com/mod/hydrogen), [not from CurseForge](https://support.overwolf.com/en/support/solutions/articles/9000197913-non-curseforge-mods)
+
+[^10]: Mods that make other mods work. Hidden in-game, but should not be removed
