@@ -1,8 +1,11 @@
 # Mods
 
-This table shows the mods included in the latest stable versions of FO. You can find the version-specific mod list on CurseForge and on Modrinth. You can find obsolete or superseded mods in the Changelog.
+This table shows the mods included in the latest stable versions of FO.
 
-The mods included are inspired by, but not limited to the [features in OptiFine](../../about/optifine.md). FO does not include mods only: [what does FO contain?](../)
+* You can find the version-specific mod list on [CurseForge](https://download.fo/curseforge) and on [Modrinth](https://download.fo/modrinth)
+* You can find obsolete or superseded mods in the [changelog on GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CHANGELOG.md)
+* The mods included are inspired by, but not limited to the [features in OptiFine](../../about/optifine.md)
+* FO is not just a pack of mods: [what does FO contain?](../)
 
 {% hint style="success" %}
 The modpack is carefully crafted together to ensure full compatibility between its mods, so you shouldn't modify its mods manually, as that may cause conflicts. You should prefer [updating the modpack](../../how-to/update/) to updating its mods invidually.
@@ -12,7 +15,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 
 {% tabs %}
 {% tab title="1.21.1" %}
-### Smooth
+#### Smooth
 
 | Name                                                                                            | Author                                                                | Description                                                             |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -28,7 +31,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Remove Reloading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)                    | [dimadencep](https://www.curseforge.com/members/dimadencep/)          | Makes resource packs load in the background                             |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Optimizes general rendering to improve FPS, adds some graphics options  |
 
-### Pretty
+#### Pretty
 
 | Name                                                                                                   | Author                                                                  | Description                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,7 +55,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)           | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Makes Sodium's settings vertical, centered and scrollable                                                                                     |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                              | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                                              |
 
-### Functional
+#### Functional
 
 | Name                                                                                          | Author                                                              | Description                                                                                                                                           |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +72,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^1]
+#### Libraries[^1]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -84,7 +87,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 {% endtab %}
 
 {% tab title="1.20.6" %}
-### Smooth
+#### Smooth
 
 | Name                                                                                            | Author                                                                | Description                                                             |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -100,7 +103,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Remove Reloading Screen](https://www.curseforge.com/minecraft/mc-mods/rrls)                    | [dimadencep](https://www.curseforge.com/members/dimadencep/)          | Makes resource packs load in the background                             |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Optimizes general rendering to improve FPS, adds some graphics options  |
 
-### Pretty
+#### Pretty
 
 | Name                                                                                                   | Author                                                                  | Description                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -122,7 +125,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)           | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Makes Sodium's settings vertical, centered and scrollable                                                                                     |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                              | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                                              |
 
-### Functional
+#### Functional
 
 | Name                                                                                          | Author                                                              | Description                                                                                                                                           |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -139,7 +142,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)          | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^2]
+#### Libraries[^2]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -154,7 +157,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 {% endtab %}
 
 {% tab title="1.19.4" %}
-### Smooth
+#### Smooth
 
 | Name                                                                                            | Author                                                                | Description                                                                     |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -172,7 +175,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Optimizes general rendering to improve FPS, adds some graphics options          |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)                             | [Spottedstar](https://www.curseforge.com/members/Spottedstar)         | Optimizes light rendering                                                       |
 
-### Pretty
+#### Pretty
 
 | Name                                                                                                   | Author                                                                  | Description                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -197,7 +200,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Reese's Sodium Options](https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options)           | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Makes Sodium's settings vertical, centered and scrollable                                                                                     |
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                              | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                                              |
 
-### Functional
+#### Functional
 
 | Name                                                                                          | Author                                                                  | Description                                                                                                                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -215,7 +218,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)         | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                               | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^5]
+#### Libraries[^5]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -230,7 +233,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 {% endtab %}
 
 {% tab title="1.18.2" %}
-### Smooth
+#### Smooth
 
 | Name                                                                                            | Author                                                                | Description                                                                     |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -247,7 +250,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Optimizes general rendering to improve FPS, adds some graphics options          |
 | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight)                             | [Spottedstar](https://www.curseforge.com/members/Spottedstar)         | Optimizes light rendering                                                       |
 
-### Pretty
+#### Pretty
 
 | Name                                                                                                   | Author                                                                  | Description                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -273,7 +276,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                              | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                                              |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)                                  | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught)         | Ensures all possible tooltips fit to screen                                                                                                   |
 
-### Functional
+#### Functional
 
 | Name                                                                                             | Author                                                                  | Description                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -289,7 +292,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)            | [shedaniel](https://www.curseforge.com/members/shedaniel)               | Keeps your settings when updating the modpack                                                                                                         |
 | [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify)                                  | [isXander](https://www.curseforge.com/members/xanderisdev)              | Adds a scrollable and customizable zoom feature                                                                                                       |
 
-### Libraries[^6]
+#### Libraries[^6]
 
 | Name                                                                                          | Author                                                                  | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -303,7 +306,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 {% endtab %}
 
 {% tab title="1.17.1" %}
-### Smooth
+#### Smooth
 
 | Name                                                                                            | Author                                                                | Description                                                                     |
 | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -320,7 +323,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)                         | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer)   | Improves the overall responsiveness of the game (less likely to freeze)         |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                                   | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)        | Optimizes general rendering to improve FPS, adds some graphics options          |
 
-### Pretty
+#### Pretty
 
 | Name                                                                                                | Author                                                                  | Description                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -344,7 +347,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                           | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                                              |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)                               | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught)         | Ensures all possible tooltips fit to screen                                                                                                   |
 
-### Functional
+#### Functional
 
 | Name                                                                                             | Author                                                              | Description                                                                                              |
 | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -359,7 +362,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)            | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                            |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)                                  | [alexander9892](https://www.curseforge.com/members/alexander9892)   | Adds a scrollable zoom feature                                                                           |
 
-### Libraries[^8]
+#### Libraries[^8]
 
 | Name                                                                                          | Author                                                            | Description                                           |
 | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------- |
@@ -374,7 +377,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 {% endtab %}
 
 {% tab title="1.16.5" %}
-### Smooth
+#### Smooth
 
 | Name                                                                           | Author                                                                  | Description                                                                     |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -391,7 +394,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)        | [UltimateBoomer](https://www.curseforge.com/members/UltimateBoomer)     | Improves the overall responsiveness of the game (less likely to freeze)         |
 | [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)                  | [CaffeineMC](https://www.curseforge.com/members/jellysquid3\_)          | Optimizes general rendering to improve FPS, adds some graphics options          |
 
-### Pretty
+#### Pretty
 
 | Name                                                                                                | Author                                                                  | Description                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -412,7 +415,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Sodium Extra](https://www.curseforge.com/minecraft/mc-mods/sodium-extra)                           | [FlashyReese](https://www.curseforge.com/members/FlashyReese)           | Adds many OptiFine-like graphics toggles: animations, particles, weather, FPS indicator and more                                              |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix)                               | [Kyrptonaught](https://www.curseforge.com/members/Kyrptonaught)         | Ensures all possible tooltips fit to screen                                                                                                   |
 
-### Functional
+#### Functional
 
 | Name                                                                                            | Author                                                              | Description                                                                                              |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -424,7 +427,7 @@ You may however [add your custom mods](../../how-to/add-mods/).
 | [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr)           | [shedaniel](https://www.curseforge.com/members/shedaniel)           | Keeps your settings when updating the modpack                                                            |
 | [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom)                                 | [alexander9892](https://www.curseforge.com/members/alexander9892)   | Adds a scrollable zoom feature                                                                           |
 
-### Libraries[^10]
+#### Libraries[^10]
 
 | Name                                                                                          | Author                                                    | Description                                           |
 | --------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- |

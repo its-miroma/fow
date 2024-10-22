@@ -5,7 +5,7 @@
 {% hint style="success" %}
 FO does not require any special setup server-side: any server that works with vanilla should be supported.
 
-Read more [tips regarding server setup](../../tips/servers.md).
+Read more [tips regarding server setup](../add-mods/multimc.md).
 {% endhint %}
 
 {% hint style="info" %}

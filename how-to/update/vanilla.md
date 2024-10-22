@@ -1,4 +1,4 @@
-# How to Update: [Minecraft Launcher (vanilla)](https://www.minecraft.net/en-us/download)
+# How to Update: Minecraft Launcher (vanilla)
 
 {% hint style="warning" %}
 These instructions rely on the [Fabulously Optimized Installer](https://github.com/Fabulously-Optimized/installer).
@@ -9,7 +9,7 @@ You may also [update FO manually](manual.md), if you had installed it manually.
 {% endhint %}
 
 1. Download the [Fabulously Optimized Installer](https://download.fo/vanilla)
-2. Run the installer. You may get a prompt from your OS: allow the installer to run [Why did I get this prompt?]() <!-- TODO: answer -->
+2. Run the installer. You may get a prompt from your OS: allow the installer to run [Why did I get this prompt?](vanilla.md)
    * On Windows: Run the `.exe` file, then click on **More info**, then click on **Run anyway**
    * On macOS: Open the `.dmg` file, then right-click on the **Fabulously Optimized Installer**, then click on **Open**, then if prompted click on **Open** again
    * On Linux: Open the `.appimage` file, then if prompted click on **Run once**
@@ -19,6 +19,6 @@ You may also [update FO manually](manual.md), if you had installed it manually.
 6. Launch the newly created installation. Minecraft should start up
 7. If you can see the newly installed version in the bottom-right corner, you're done!
 
-{% hint style="info" %}
-You may find a `paigaldaja_meta.json` file in the same folder as the installer. This is just a configuration file, for smoother future updates.
+{% hint style="success" %}
+You may find a `paigaldaja_meta.json` file in the same folder as the installer. Don't worry: this is just a configuration file for smoother future updates
 {% endhint %}

@@ -5,19 +5,19 @@
 {% hint style="danger" %}
 **You should ALWAYS make backups before updating**.
 
-As with any other piece of software, updates may go wrong for many reasons, including but not limited to: the launcher, the hardware, your custom configuration, the mods you added... and, rarely, the modpack.
+As with any other piece of software, updates may go wrong for many reasons, including but not limited to: the launcher, the hardware, your custom configuration, the mods you added... and, rarely, the modpack as well.
 {% endhint %}
 
 {% hint style="warning" %}
 **FO only supports updates to stable versions**.
 
-We do NOT support updating from a stable to an unstable (alpha, beta) version, nor do we support downgrading. In those cases, consider creating a separate installation/instance.
+We do NOT support updating from a stable to an unstable version, nor do we support downgrading. In those cases, consider creating a separate installation/instance.
 
-The modpack is carefully crafted together to ensure full compatibility between its mods, so you should never update its mods manually, as that may cause conflicts. Of course, if you've [added custom mods to FO](../add-mods/), you must update those on your own.
+Of course, if you've [added custom mods to FO](../add-mods/), you are responsible for updating those, but you should not update [mods bundled in FO](../../info/mods/) manually.
 {% endhint %}
 
 {% hint style="info" %}
-If you want the recommended FO configuration, you may [reset your custom settings](../../info/options.md#reset-settings).
+If you want the recommended FO configuration after an update, you may [reset your custom settings](../../info/options.md#reset-settings).
 {% endhint %}
 
 {% hint style="info" %}

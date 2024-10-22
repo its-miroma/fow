@@ -6,9 +6,9 @@ While telemetry is not necessarily bad, as it may help developers better support
 
 FO disables all forms of telemetry by default, giving the user the choice to opt-in if he wills. This is because of three reasons:
 
-* [FO's principles](../about/principles.md) prioritize privacy and transparency, and because of this we believe that telemetry should be opt-in.
-* Snooper already collects too much data, such as the user's Xbox ID, even in minimal configuration
-* FO may interfere with Mojang's data, due to the game being modded: performance improvements from the mods are not reflected in the vanilla game
+* [FO's principles](../about/principles.md) prioritize privacy and transparency, so we believe that telemetry should be opt-in
+* Snooper collects too much data even in minimal configuration, for example the user's Xbox ID
+* FO may interfere with Mojang's data: performance gains from its mods do not exist in vanilla
 
 {% hint style="danger" %}
 FO cannot and does not disable telemetry collected by the launcher or by the OS.

@@ -1,6 +1,8 @@
 # Keybinds
 
+{% hint style="info" %}
 Click on each keybind to get a description of what it does.
+{% endhint %}
 
 | Option                                                          | Vanilla  | FO     | Reason for Change                    |
 | --------------------------------------------------------------- | -------- | ------ | ------------------------------------ |

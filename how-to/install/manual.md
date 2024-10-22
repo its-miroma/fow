@@ -1,9 +1,7 @@
 # How to Install Manually
 
 {% tabs %}
-
 {% tab title="Minecraft 1.19.4 and above" %}
-
 1. On macOS and Linux, download and install [Java](https://download.fo/java)
 2. Download the [Fabric Installer](https://fabricmc.net/use)
 3. Run the Fabric Installer
@@ -16,28 +14,28 @@
 10. If you do not want the latest version of FO, select the version you want from the dropdown.
 11. Click on the download button ⬇️. This should download a `zip` file
 12. If you get a prompt about popup windows or multiple downloads, please allow them
-13. Extract the `zip` file. [What does the `zip` file contain?](#what-does-the-zip-file-contain)
-14. Copy all folders from the extracted `zip` file to the `.minecraft` folder that you opened in _step 8_. [Why do I need to copy everything over?](#why-do-i-need-to-copy-everything-over)
+13. Extract the `zip` file. [What does the `zip` file contain?](manual.md#what-does-the-zip-file-contain)
+14. Copy all folders from the extracted `zip` file to the `.minecraft` folder that you opened in _step 8_. [Why do I need to copy everything over?](manual.md#why-do-i-need-to-copy-everything-over)
 15. If you're asked to replace files, replace them
 16. If you want the [recommended FO settings](../../info/options.md), delete `options.txt`. This will reset your vanilla options (resource packs, language, keybinds...) but you can reapply them later
 17. Go back to the **Minecraft Launcher**
 18. Launch the Fabric installation from _step 7_. Minecraft should start up
 19. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
-## What does the `zip` file contain?
+### What does the `zip` file contain?
 
 The `zip` file contains the following:
 
 * `config/`: Configuration files that adjust the mods for the best experience
 * `mods/`: The mods that are included in FO
-* `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs/README.md)
+* `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs.md)
 * `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
 
-## Why do I need to copy everything over?
+### Why do I need to copy everything over?
 
-FO consists of mods, configuration and resource packs, and all three are necessary. [What does the pack contain?](../../info/README.md)
+FO consists of mods, configuration and resource packs, and all three are necessary. [What does the pack contain?](../../info/)
 
-Copying the `mods` folder only may result in the following issues:
+Copying the `mods` folder only may result in the following issues:
 
 * In some versions the game will not launch at all
 * Some of your resource packs will be broken
@@ -55,11 +53,9 @@ If you have mistakenly forgotten to copy the other folders, do the following:
 4. Follow _steps 9-15_ from the instructions above to copy the missing files over
 5. If you had backed up your settings in _step 3_ and you don't want the [recommended FO settings](../../info/options.md), move yours back
 6. Follow _steps 17-19_ from the instructions above to complete the installation
-
 {% endtab %}
 
 {% tab title="Minecraft 1.16.1 - 1.19.3" %}
-
 1. Install the appropriate version of Java:
    * Minecraft 1.19-1.19.3: [Java 17](https://download.fo/java17)
    * Minecraft 1.17-1.18.2: [Java 17](https://download.fo/java17)
@@ -86,7 +82,7 @@ If you have mistakenly forgotten to copy the other folders, do the following:
 18. Launch the Fabric installation from _step 4_. Minecraft should start up
 19. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
-## What does the `zip` file contain?
+### What does the `zip` file contain?
 
 The MultiMC `zip` file contains the following:
 
@@ -94,17 +90,17 @@ The MultiMC `zip` file contains the following:
   * `minecraft/`: The main folder of the modpack
     * `config/`: Configuration files that adjust the mods for the best experience
     * `mods/`: The mods that are included in FO
-    * `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs/README.md)
+    * `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs.md)
     * `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
   * `instance.cfg`: A manifest file describing name, icon, type and notes for the instance
   * `mmc-pack.json`: A manifest file describing the version of Minecraft, Fabric and of other dependencies
   * `pack.png`: An icon for the instance
 
-## Why do I need to copy everything over?
+### Why do I need to copy everything over?
 
-FO consists of mods, configuration and resource packs, and all three are necessary. [What does the pack contain?](../../info/README.md)
+FO consists of mods, configuration and resource packs, and all three are necessary. [What does the pack contain?](../../info/)
 
-Copying the `mods` folder only may result in the following issues:
+Copying the `mods` folder only may result in the following issues:
 
 * In some versions the game will not launch at all
 * Some of your resource packs will be broken
@@ -122,7 +118,5 @@ If you have mistakenly forgotten to copy the other folders, do the following:
 4. Follow _steps 9-15_ from the instructions above
 5. If you had backed up your settings in _step 3_ and you don't want the [recommended FO settings](../../info/options.md), move yours back
 6. Follow _steps 17-19_ from the instructions above
-
 {% endtab %}
-
 {% endtabs %}

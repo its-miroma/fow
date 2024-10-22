@@ -1,10 +1,8 @@
-# How to Update: [MultiMC](https://multimc.org/)
+# How to Update: MultiMC
 
-{% hint style="info" %}
 If you had installed [FO on MultiMC with automatic updates](../install/multimc.md#automatic-updates), you just need to run the existing versions. If you get a popup saying that **This modpack uses new versions of the following...**, then click on the **Update** button.
 
-However, if you have installed [FO on MultiMC without automatic updates](../install/multimc.md#easy-installation), or if a new version of minecraft is available, keep on reading.
-{% endhint %}
+However, if you had installed [FO on MultiMC without automatic updates](../install/multimc.md#easy-installation), or if you're updating to a new version of Minecraft, keep on reading.
 
 1. Follow the [FO installation instructions for MultiMC](../install/multimc.md) again. This will create a new instance
 2. In **MultiMC**, click on the new version, then click on **Minecraft Folder**

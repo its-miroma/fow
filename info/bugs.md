@@ -1,10 +1,6 @@
 # Bug Fixes
 
-FO includes some mods that fix vanilla bugs.
-
-{% hint style="info" %}
-If there's a bug that you think FO should fix, you can [request a bug fix](bugs.md#request-a-bug-fix)
-{% endhint %}
+FO includes some mods that fix vanilla bugs. If there's another bug that you think FO can fix, you should [request a bug fix](bugs.md#request-a-bug-fix).
 
 | Bug                                                   | Description                                                                                         | Fixed by                                                                          |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
