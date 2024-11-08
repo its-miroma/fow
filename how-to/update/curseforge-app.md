@@ -1,9 +1,15 @@
 # How to Update: CurseForge App
 
+{% hint style="danger" %}
+**You should ALWAYS [make backups](../backup/curseforge-app.md) before updating**.
+
+As with any other piece of software, updates may go wrong for many reasons, including but not limited to: the launcher, the hardware, your custom configuration, the mods you added... and, rarely, FO as well.
+{% endhint %}
+
 1. Open the **CurseForge App**
 2. Select **Minecraft** from the grid or from the sidebar
 3. In **My Modpacks**, right-click on **Fabulously Optimized**
-4. Click on the **Change Version** button.
+4. Click on the **Change Version** button
 5. If you cannot find the **Change Version** button, that means that you've added custom mods:
    1. Click on the three dots button
    2. Click on **Profile Options**

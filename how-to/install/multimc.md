@@ -1,13 +1,13 @@
 # How to Install: MultiMC
 
-[MultiMC](https://multimc.org/) does not support automatic updates by default. However, FO has developed a custom MultiMC pack that uses [packwiz](https://github.com/packwiz/packwiz) to perform updates automatically.
+[MultiMC](https://multimc.org/) does not support automatic updates by default. However, FO has developed a custom MultiMC pack to perform updates automatically. Read more about the [MultiMC auto-updating pack](multimc.md#how-does-it-work)
 
-We recommend following the [instructions to get automatic updates](multimc.md#automatic-updates), but you can also follow the [easier instructions](multimc.md#easier-installation) at the cost of having to update manually.
+{% hint style="info" %}
+You may also want to use one of the other [launchers supported by FO](./), which offer easier installation, updates and mod management.
+{% endhint %}
 
-You may also want to use one of the other [launchers supported by FO](README.md), which offer easier installation, updates and mod management.
-
-## Automatic Updates
-
+{% tabs %}
+{% tab title="Automatic Updates (recommended)" %}
 1. Download and install [Java 21](https://download.fo/java21)
 2. Download FO's MultiMC pack for your preferred Minecraft version from [GitHub Releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases):
    * [`1.21.3`](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v6.4.0-alpha.5/Fabulously.Optimized.MC.1.21.3.auto-update.zip)
@@ -33,13 +33,30 @@ You may also want to use one of the other [launchers supported by FO](README.md)
 9. Click on **Launch**. Minecraft should open up
 10. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
-## Easier Installation
+### How Does It Work?
 
+The MultiMC auto-updating pack launches [`packwiz`](https://github.com/comp500/packwiz) every time it is opened. `packwiz` is a mod handling tool which will add and update any missing FO mods indicated in a `pack.toml` file.
+
+Since the update checker runs on every launch, you'll get a skippable error if you play offline. The updater only manages FO's mods, not the [mods added manually](../add-mods/multimc.md).
+
+MultiMC does not natively support automatic updates of modpacks: see [issue #2640](https://github.com/MultiMC/MultiMC5/issues/2640) and [issue #3037](https://github.com/MultiMC/MultiMC5/issues/3057). FO chose to use `packwiz` because it is also used for the [vanilla installer](vanilla.md).
+
+Before FO 6.0.0, the MultiMC auto-updating pack was distributed on CurseForge, but that has changed for the following reasons:
+
+* CurseForge's UI for downloading the MultiMC auto-updating pack became confusing
+* The pack had to be re-uploaded on every update, which was often unnecessary
+* The pack's downloads via CurseForge [might not support FO](https://support.curseforge.com/en/support/solutions/articles/9000197898-rewards-program-terms-of-service#1.-Description-of-Rewards-Program) as previously thought
+* The pack proved to have unexpected issues that do not exist with other launchers
+{% endtab %}
+
+{% tab title="Easier Installation" %}
 1. Download and install [Java 21](https://download.fo/java21)
 2. In [**MultiMC**](https://multimc.org/), click on **Add Instance**
 3. Click on the **Modrinth** tab on the left
 4. Click on **Fabulously Optimized**
-5. If you do not want the latest version of FO, select the version you want from the dropdown.
+5. If you do not want the latest version of FO, select the version you want from the dropdown
 6. Click on **OK**. Once installed, something should happen
 7. Double-click on the icon. Minecraft should open up
 8. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
+{% endtab %}
+{% endtabs %}

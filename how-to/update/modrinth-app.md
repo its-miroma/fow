@@ -1,5 +1,11 @@
 # How to Update: Modrinth App
 
+{% hint style="danger" %}
+**You should ALWAYS [make backups](../backup/modrinth-app.md) before updating**.
+
+As with any other piece of software, updates may go wrong for many reasons, including but not limited to: the launcher, the hardware, your custom configuration, the mods you added... and, rarely, FO as well.
+{% endhint %}
+
 1. Open the **Modrinth App**
 2. Select the existing FO instance
 3. Click on the **Update modpack** button on the top-right

@@ -3,7 +3,7 @@
 <table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Modrinth App</strong></td><td><a href="modrinth-app.md">modrinth-app.md</a></td></tr><tr><td align="center"><strong>CurseForge App</strong></td><td><a href="curseforge-app.md">curseforge-app.md</a></td></tr><tr><td align="center"><strong>Prism Launcher</strong></td><td><a href="prism-launcher.md">prism-launcher.md</a></td></tr><tr><td align="center"><strong>Minecraft Launcher</strong></td><td><a href="vanilla.md">vanilla.md</a></td></tr><tr><td align="center"><strong>MultiMC</strong></td><td><a href="multimc.md">multimc.md</a></td></tr></tbody></table>
 
 {% hint style="danger" %}
-**You should ALWAYS make backups before updating**.
+**You should ALWAYS [make backups](../backup/README.md) before updating**.
 
 As with any other piece of software, updates may go wrong for many reasons, including but not limited to: the launcher, the hardware, your custom configuration, the mods you added... and, rarely, FO as well.
 {% endhint %}

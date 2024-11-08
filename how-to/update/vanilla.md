@@ -1,10 +1,13 @@
 # How to Update: Minecraft Launcher
 
-{% hint style="info" %}
-These instructions rely on the [FO Installer](https://github.com/Fabulously-Optimized/installer).
+{% hint style="danger" %}
+**You should ALWAYS [make backups](../backup/vanilla.md) before updating**.
 
-You may also [update FO manually](manual.md), if you had installed it manually.
+As with any other piece of software, updates may go wrong for many reasons, including but not limited to: the launcher, the hardware, your custom configuration, the mods you added... and, rarely, FO as well.
 {% endhint %}
+
+{% tabs %}
+{% tab title="Installer" %}
 
 1. Download the [FO Installer](https://download.fo/vanilla)
 2. Open the installer. If you get a prompt from your OS, then allow the installer to run. [Why did I get this prompt?]() <!-- TODO: answer -->
@@ -18,5 +21,13 @@ You may also [update FO manually](manual.md), if you had installed it manually.
 7. If you can see the newly installed version in the bottom-right corner, you're done!
 
 {% hint style="info" %}
-You may find a `paigaldaja_meta.json` file in the same folder as the installer. Don't worry: this is just a configuration file for smoother future updates
+You may find a `paigaldaja_meta.json` file in the same folder as the installer. Don't worry: this is just a configuration file for smoother future updates.
 {% endhint %}
+{% endtab %}
+
+{% tab title="Manual" %}
+If you've installed FO manually, you must reinstall it for every update.
+
+Follow the [installation instructions](../install/vanilla.md) again. You may skip _step 1_ because Java is already installed.
+{% endtab %}
+{% endtabs %}

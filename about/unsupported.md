@@ -6,7 +6,7 @@ FO is a Fabric modpack for Minecraft: Java Edition. Because of this, it does not
 
 FO is a modpack for Minecraft: Java Edition, so it does not support Bedrock at all.
 
-However, one of [FO's principles](principles.md) is focusing on parity with Bedrock Edition if possible.
+However, one of [FO's principles](./) is focusing on parity with Bedrock Edition if possible.
 
 ## Other Modpacks
 
@@ -15,14 +15,14 @@ FO does not officially support nor recommend being installed with other modpacks
 You may want to [add custom mods](../how-to/add-mods/) instead.
 
 {% hint style="info" %}
-If you still want to do it on your responsibility, you may install the other modpack first, then copy FO's files on it. See the [manual installation instructions](../how-to/install/manual.md).
+If you still want to do it on your responsibility, you may install the other modpack first, then copy FO's files on it. See the [manual tab in the vanilla installation instructions](../how-to/install/vanilla.md).
 
 Note that you will not be able to get help from FO, and probably not from the other modpack either.
 {% endhint %}
 
 ## Other Loaders
 
-FO is based on [Fabric](principles.md), <!-- TODO: update link --> and does not support other loaders, such as [NeoForge](https://neoforged.net/) or [Quilt](https://quiltmc.org/).
+FO is based on [Fabric](./), and does not support other loaders, such as [NeoForge](https://neoforged.net/) or [Quilt](https://quiltmc.org/).
 
 You may try to run FO on Quilt, but this is not officially supported.
 
@@ -55,7 +55,7 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 1. Open **GDLauncher Legacy**
 2. Right-click on the previously-used instance
 3. Click on **Open Folder**
-4. Follow the [FO installation instructions for Prism Launcher](../how-to/install/prism-launcher/)
+4. Follow the [FO installation instructions for Prism Launcher](../how-to/install/prism-launcher.md)
 5. In Prism Launcher, click on the **Folder** button on the left
 6. Move the following files from the folder you opened in _step 3_ to the folder you opened in _step 5_:
    * `saves`: Your local worlds
@@ -87,7 +87,7 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
 
 1. Uninstall PolyMC
 2. Install [Prism Launcher](https://prismlauncher.org/)
-3. Open **Prism Launcher**. You should get a prompt.
+3. Open **Prism Launcher**. You should get a prompt
 4. Pay attention to what the prompt says. If it says:
    * > It looks like you used PolyMC before. Do you want to migrate your data to the new location of Prism Launcher?
      * Click **Yes** to migrate automatically
@@ -104,7 +104,7 @@ Follow these instructions to migrate to [Prism Launcher](https://prismlauncher.o
      6. Paste the files you copied in _step 3_ in the folder you opened in _step 5_
      7. Close and reopen Prism Launcher. You should find all of your instances there
      8. Sign into your accounts and complete Prism Launcher's configuration
-5. Follow the [FO installation instructions for Prism Launcher](../how-to/install/prism-launcher/)
+5. Follow the [FO installation instructions for Prism Launcher](../how-to/install/prism-launcher.md)
 
 ### Cracked launchers
 
@@ -117,5 +117,5 @@ There is a way to obtain Minecraft for cheaper: You can get a [giftcode from a t
 #### TLauncher
 
 {% hint style="danger" %}
-TLauncher is malware! You should [reset your entire OS](https://howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows).
+TLauncher is malware! You should [reset your entire OS](https://howtogeek.com/202590/stop-trying-to-clean-your-infected-computer-just-nuke-it-and-reinstall-windows)!
 {% endhint %}

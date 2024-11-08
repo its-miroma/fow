@@ -8,4 +8,4 @@
 6. Click on **Instance Folder**
 7. Copy the `jar` file you downloaded in _step 3_ to the `mods` folder
 8. Launch the instance. Minecraft should open up
-9. If youMultiMC can see the newly installed content in the Mod Menu, you're done!
+9. If you can see the newly installed content in the Mod Menu, you're done!

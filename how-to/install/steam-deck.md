@@ -25,5 +25,5 @@ You'll install FO on your Steam Deck via [Prism Launcher](./).
 21. If you want a better icon in your game library, follow the [instructions for setting up artwork](https://prismlauncher.org/download/steam-deck/#setting-up-artwork)
 
 {% hint style="warning" %}
-If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](https://old.reddit.com/r/steamdeck). FO moderators might not be able to help you
+If you get Deck-related issues, try asking on [r/SteamDeck on Reddit](https://old.reddit.com/r/steamdeck). FO moderators might not be able to help you.
 {% endhint %}
