@@ -6,9 +6,11 @@ Do NOT disable "API" or "library" mods, because the other mods need them.
 
 Instructions vary depending on whether you had installed FO on MultiMC with the easier installation or with automatic updates.
 
-
-
-\{% hint style="info"} Tutorial by [Ultrasonic1209](https://github.com/Ultrasonic1209) based on [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81).
+{% tabs %}
+{% tab title="Automatic Updates" %}
+{% hint style="info" %}
+Tutorial by [Ultrasonic1209](https://github.com/Ultrasonic1209) based on [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81).
+{% endhint %}
 
 1. Open **MultiMC**
 2. Right-click the FO instance
@@ -41,10 +43,12 @@ powershell -ExecutionPolicy Bypass -File ..\pre-launch.ps1
 ```powershell
 powershell -ExecutionPolicy Bypass -File ..\pre-launch.ps1
 ```
+{% endtab %}
 
-
-
-\{% hint style="info"} Tutorial by [RaptaG](https://github.com/RaptaG) based on [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81).
+{% tab title="Easier Installation" %}
+{% hint style="info" %}
+Tutorial by [RaptaG](https://github.com/RaptaG) based on [Remty5's workaround](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/81).
+{% endhint %}
 
 {% hint style="warning" %}
 Not fully tested on macOS!
@@ -92,3 +96,5 @@ Not fully tested on macOS!
 5. Find the mod you want to disable
 6. Uncheck the checkbox
 7. If you want to re-enable the mod, then check the checkbox again
+{% endtab %}
+{% endtabs %}

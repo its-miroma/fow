@@ -14,7 +14,7 @@
 7. If you can see `Fabulously Optimized` in the bottom-right corner, you're done!
 
 {% hint style="warning" %}
-If the installation with the installer fails, you should install FO manually.
+If the installation with the installer fails, or you want a version older than `5.10.3`, you should install FO manually.
 
 Please report any issues you encounter on [GitHub](https://github.com/Fabulously-Optimized/installer/issues) or on [Discord](https://download.fo/discord).
 {% endhint %}
@@ -91,14 +91,14 @@ The MultiMC `zip` file is a packaged instance for [MultiMC](multimc.md#how-does-
 It contains the following:
 
 * `Fabulously Optimized x.y.z/`: A folder containing the MultiMC instance
-  * `minecraft/`: The main folder of FO
-    * `config/`: Configuration files that adjust the mods for the best experience
-    * `mods/`: The mods that are included in FO
-    * `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs.md)
-    * `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
-  * `instance.cfg`: A manifest file describing name, icon, type and notes for the instance
-  * `mmc-pack.json`: A manifest file describing the version of Minecraft, Fabric and of other dependencies
-  * `pack.png`: An icon for the instance
+   * `minecraft/`: The main folder of FO
+      * `config/`: Configuration files that adjust the mods for the best experience
+      * `mods/`: The mods that are included in FO
+      * `resourcepacks/`: Small resource packs for the best experience. [What do the resource packs do?](../../info/resource-packs.md)
+      * `Copy all 3 folders!`: A dummy files that reminds you to, well, copy all 3 folders!
+   * `instance.cfg`: A manifest file describing name, icon, type and notes for the instance
+   * `mmc-pack.json`: A manifest file describing the version of Minecraft, Fabric and of other dependencies
+   * `pack.png`: An icon for the instance
 {% endtab %}
 {% endtabs %}
 

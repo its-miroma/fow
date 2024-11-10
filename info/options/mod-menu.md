@@ -4,7 +4,7 @@ hidden: true
 
 # mod-menu
 
-It also adds icons showing configurable mods: if <kbd>🛠️</kbd> or <kbd>✏️</kbd> is blue, you can configure the mod by clicking the config button
+It also adds icons showing configurable mods: if **`🛠️`** or **`✏️`** is blue, you can configure the mod by clicking the config button
 
 ![config](https://i.ibb.co/j35cBtn/image.png)
 

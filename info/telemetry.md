@@ -1,3 +1,7 @@
+---
+icon: chart-area
+---
+
 # Telemetry
 
 **Telemetry Data Collection**, previously known as **Snooper**, refers to Minecraft's methods of collecting analytics about the user. Read more about [Minecraft's telemetry options](https://minecraft.wiki/w/Snooper).
@@ -6,7 +10,7 @@ While telemetry is not necessarily bad, as it may help developers better support
 
 FO disables all forms of telemetry by default, giving the user the choice to opt-in if he wills. This is because of three reasons:
 
-* [FO's principles](../about/) prioritize privacy and transparency, so we believe that telemetry should be opt-in
+* In accordance to the [Transparency principle](../about/#transparency), we believe that telemetry should be opt-in
 * Snooper collects too much data even in minimal configuration, for example the user's Xbox ID
 * FO may interfere with Mojang's data: performance gains from its mods do not exist in vanilla
 

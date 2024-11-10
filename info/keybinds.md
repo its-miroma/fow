@@ -1,3 +1,7 @@
+---
+icon: keyboard
+---
+
 # Keybinds
 
 {% hint style="info" %}

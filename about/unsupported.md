@@ -1,3 +1,7 @@
+---
+icon: ban
+---
+
 # Unsupported
 
 FO is a Fabric modpack for Minecraft: Java Edition. Because of this, it does not support the following platforms:
@@ -6,7 +10,7 @@ FO is a Fabric modpack for Minecraft: Java Edition. Because of this, it does not
 
 FO is a modpack for Minecraft: Java Edition, so it does not support Bedrock at all.
 
-However, one of [FO's principles](./) is focusing on parity with Bedrock Edition if possible.
+However, one of [FO's principles](./#familiarity) is focusing on parity with Bedrock Edition if possible.
 
 ## Other Modpacks
 
@@ -22,11 +26,21 @@ Note that you will not be able to get help from FO, and probably not from the ot
 
 ## Other Loaders
 
-FO is based on [Fabric](./), and does not support other loaders, such as [NeoForge](https://neoforged.net/) or [Quilt](https://quiltmc.org/).
+FO is based on [Fabric](fabric.md), and does not support other mod loaders.
 
-You may try to run FO on Quilt, but this is not officially supported.
+### NeoForge
 
-FO is tracking the sustainability and popularity of Quilt in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257). If it proves fruitful, FO may support Quilt in the future.
+FO does not support [NeoForge](https://neoforged.net/) or Forge.
+
+FO does not plan on ever supporting NeoForge, because it is slower, it takes longer to update, and it does not support Fabric's optimizations.
+
+If you're coming from Forge, you can find a community-maintained [list of Fabric mods corresponding to Forge mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). See [how to add mods to FO](../how-to/add-mods/). There is also work being done to support Forge mods on Fabric, via [PatchWork](https://patchworkmc.net).
+
+### Quilt
+
+FO does not support [Quilt](https://quiltmc.org/).
+
+FO is tracking the sustainability and popularity of Quilt in [issue #257](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/257). If many mods decide to migrate to Quilt, FO may support it in the future.
 
 ## Game Clients
 
