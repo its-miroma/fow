@@ -2,7 +2,7 @@
 
 FO uses [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr) to manage settings and to allow updates without losing your settings, but you will not get FO's latest recommendations. You can find [FO's settings file on GitHub](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Packwiz/1.21.1/config).
 
-If you want to start fresh, you can always [reset to FO's recommended settings](../../how-to/reset/).
+If you want to start fresh, you can always [reset to FO's recommended settings](../../how-to/reset/). You can also check out [other options you may want to change](other.md).
 
 {% hint style="info" %}
 Click on each option to get a description of what it does.

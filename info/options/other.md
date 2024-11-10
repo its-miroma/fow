@@ -2,5 +2,4 @@
 hidden: true
 ---
 
-# troubleshoot
-
+# other
