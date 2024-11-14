@@ -14,3 +14,9 @@ It also adds icons showing configurable mods: if **`🛠️`** or **`✏️`** i
    3. Click on `Resource Packs...`
    4. Click on `⏵` next to **Mod Menu Helper.zip**
    5. Click on `Done`
+
+1. With the game open, click `Mods`
+2. Scroll down to the specific mod you want to disable, note the third row with the ⚒️ (tools) or ✏️ (pencil) icon
+   * If the icon is **blue** and the text mentions **"Toggle mod"**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and find the setting that disables the mod
+   * If the icon is **blue and the text says something else**, click the config button ![config](https://i.ibb.co/j35cBtn/image.png) and see if you can disable the specific feature you need
+   * If the icon is **gray** and there is no config button, or you know you added the mod yourself, follow your launcher-specific instructions below

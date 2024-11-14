@@ -30,11 +30,11 @@ FO is based on [Fabric](fabric.md), and does not support other mod loaders.
 
 ### NeoForge
 
-FO does not support [NeoForge](https://neoforged.net/) or Forge.
+FO does not support [NeoForge](https://neoforged.net/).
 
 FO does not plan on ever supporting NeoForge, because it is slower, it takes longer to update, and it does not support Fabric's optimizations.
 
-If you're coming from Forge, you can find a community-maintained [list of Fabric mods corresponding to Forge mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). See [how to add mods to FO](../how-to/add-mods/). There is also work being done to support Forge mods on Fabric, via [PatchWork](https://patchworkmc.net).
+If you're coming from NeoForge, you can find a community-maintained [list of Fabric mods corresponding to NeoForge mods](https://gist.github.com/TrueCP6/4853f15015b210fd3b1e210e9e485f83). See [how to add mods to FO](../how-to/add-mods/). There is also work being done to support NeoForge mods on Fabric, via [PatchWork](https://patchworkmc.net).
 
 ### Quilt
 
@@ -47,6 +47,14 @@ FO is tracking the sustainability and popularity of Quilt in [issue #257](https:
 FO is not compatible with "game clients", including "PvP clients".
 
 You may want to [add custom mods](../how-to/add-mods/) instead.
+
+FO itself is not a client for the following reasons:
+
+* We would have to maintain more code, which is beyond FO's objective
+* We would need explicit permission from all mod authors
+* The authors would likely receive no benefits from the client
+* We would get less flexibility in what we can do with FO
+* We would need a way to keep it sustainable, such as ads or similar
 
 ## Other Launchers
 

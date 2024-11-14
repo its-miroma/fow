@@ -16,7 +16,7 @@ FO includes some mods that fix vanilla bugs. If there's another bug that you thi
 | [MC-89146](https://bugs.mojang.com/browse/MC-89146)   | Pistons forget update when being reloaded                                                           | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
 | [MC-90683](https://bugs.mojang.com/browse/MC-90683)   | "Received unknown passenger" - Entities with differing render distances as passengers outputs error | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
 | [MC-112730](https://bugs.mojang.com/browse/MC-112730) | Beacon beam and structure block render twice per frame                                              | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
-| [MC-121884](https://bugs.mojang.com/browse/MC-121884) | Server -> Client custom payload packets can leak resources                                          | [MemoryLeakFix](https://curseforge.com/minecraft/mc-mods/memoryleakfix)       |
+| [MC-121884](https://bugs.mojang.com/browse/MC-121884) | Server → Client custom payload packets can leak resources                                          | [MemoryLeakFix](https://curseforge.com/minecraft/mc-mods/memoryleakfix)       |
 | [MC-122477](https://bugs.mojang.com/browse/MC-122477) | Linux/GNU: Opening chat sometimes writes 't'                                                        | [Debugify](https://curseforge.com/minecraft/mc-mods/debugify)                 |
 | [MC-132488](https://bugs.mojang.com/browse/MC-132488) | Ticking animated textures is very inefficient                                                       | [Sodium](https://curseforge.com/minecraft/mc-mods/sodium)                     |
 | [MC-154966](https://bugs.mojang.com/browse/MC-154966) | Hunger and experience bar invisible on horses and all other animal mounts                           | [Better Mount Hud](https://curseforge.com/minecraft/mc-mods/better-mount-hud) |
@@ -36,4 +36,4 @@ FO will only fix a bug if it affects a large majority of its users (at least 70%
 
 1. Find the bug on [Mojang's bug tracker](https://bugs.mojang.com/projects/MC/issues?filter=allopenissues)
 2. Request it or find its status on [Debugify's bug tracker](https://github.com/W-OVERFLOW/Debugify/issues)
-3. If you're sure that the bug fix is in Debugify, [request an option change](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?labels=option\&template=setting-request.yml)
+3. If you're sure that the bug fix is in Debugify, [request an option change](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/new?labels=option&template=setting-request.yml)

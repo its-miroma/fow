@@ -18,13 +18,13 @@ Click on each option to get a description of what it does.
 
 [^2]: Makes the Mojang Studios splash screen white-on-black instead of white-on-red
 
-[^3]: Toggle [VSync](https://en.wikipedia.org/wiki/Screen\_tearing#Vertical\_synchronization), a FPS-limiting system
+[^3]: Toggle [VSync](https://en.wikipedia.org/wiki/Screen_tearing#Vertical_synchronization), a FPS-limiting system
 
 [^4]: Size of the menu and interface elements
 
 [^5]: A list of resource packs that have been forcefully enabled, despite being marked as incompatible
 
-[^6]: Whether to display the hint for [Social Interactions](https://minecraft.wiki/w/Social\_Interactions\_screen)
+[^6]: Whether to display the hint for [Social Interactions](https://minecraft.wiki/w/Social_Interactions_screen)
 
 [^7]: The maximum framerate
 
@@ -40,8 +40,8 @@ Click on each option to get a description of what it does.
 
 [^13]: Redstone and mob spawning distance
 
-[^14]: Whether to skip [the legal disclaimer](https://minecraft.wiki/w/File:Multiplayer\_disclaimer.png) when opening the multiplayer screen
+[^14]: Whether to skip [the legal disclaimer](https://minecraft.wiki/w/File:Multiplayer_disclaimer.png) when opening the multiplayer screen
 
 [^15]: Sets the telemetry (analytics data collection) toggle to "minimal".
 
-[^16]: The next step of [tutorial hints](https://minecraft.wiki/w/Tutorial\_hints)
+[^16]: The next step of [tutorial hints](https://minecraft.wiki/w/Tutorial_hints)

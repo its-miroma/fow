@@ -32,7 +32,7 @@ Improves the Mod Menu by explaining what each mod does and labeling configurable
 
 [**Mod Menu Helper**](https://github.com/Fabulously-Optimized/fabulously-optimized/tree/main/Resource%20Packs/Mod%20Menu%20Helper)
 
-Read more about the [icons added by Mod Menu Helper](../options/mod-menu.md)
+Read more about [what Mod Menu Helper does](../options/mod-menu.md)
 
 ## Translations for Sodium
 
@@ -40,4 +40,4 @@ Implements unofficial translations for the Sodium mod.
 
 [**Translations for Sodium**](https://github.com/Madis0/sodium-fabric-translations)
 
-Read more about [localization in Sodium natively](https://github.com/CaffeineMC/sodium-fabric/issues/2304)
+Read more about [translating Sodium](../../about/contribute/translate.md#sodium)
